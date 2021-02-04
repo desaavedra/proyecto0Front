@@ -1,0 +1,39 @@
+.center {
+    align-content: center;
+    position: absolute;
+    top: 30%;
+    right: 35%;
+    left: 35%;
+    bottom:30%;
+  }
+.createEvent{
+  align-content: center;
+  position: absolute;
+  top: 10%;
+  right: 35%;
+    left: 35%;
+}
+.table{
+  margin-top: 5%;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+.right{
+  margin-top: 1%  ;
+  right:3%;
+  position: absolute;
+}
+  
+.ancho{
+width: 100%;
+padding-top: 10%;
+}
+.card{
+  width:30%;
+  
+}
+.divCard{
+  padding-top: 3%;
+  padding-left: 10%;
+}
+
